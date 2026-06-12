@@ -51,6 +51,7 @@ gemini-ai-chat-assistant/
 
 ### 1. Clone Repository
 
+
 ```bash
 git clone https://github.com/shivani-009/my_gemini.git
 ```
