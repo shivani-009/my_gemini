@@ -4,7 +4,6 @@
 A modern AI-powered chat assistant built using **HTML, Tailwind CSS, JavaScript, and Google Gemini API**.
 This project provides a sleek multi-turn conversational interface with chat history, model selection, Markdown rendering, and responsive UI.
 
-
 ---
 
 ## 🚀 Features
